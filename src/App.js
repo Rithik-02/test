@@ -75,7 +75,7 @@ function App() {
    //Arrow function
    // const arrowFunction = () => console.log("ARROW FUNC");
 
-   arrowFunction();
+   // arrowFunction();
 
    return <div></div>;
 }
@@ -87,3 +87,11 @@ export default App;
 // Dot operator
 // Array Object
 // Spreas operator
+
+// GIT
+
+// git init
+// add remote to local
+// git add.
+// git commit -m "Message"
+// git push -u origin master
