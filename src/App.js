@@ -95,3 +95,9 @@ export default App;
 // git add.
 // git commit -m "Message"
 // git push -u origin master
+
+// After a change
+
+// git add .
+// git commit -m "Message"
+// git push origin master
